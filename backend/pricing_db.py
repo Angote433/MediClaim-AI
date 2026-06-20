@@ -123,7 +123,7 @@ def match_procedure(description, threshold=0.55):
     return None, None
  
  
-# ── Inpatient / Surgical / ICU (added post-hackathon sprint) ─────────────────
+# ── Inpatient / Surgical / ICU (added post-hackathon sprint)
  
 PRICING_DATABASE.update({
     # Theatre & Surgery
